@@ -9,3 +9,5 @@ This is an added comment.
 This is a new modification.
 
 Creating a new branch is quick And simple.
+
+Bug branch
